@@ -1,4 +1,4 @@
 # My CSS Project
-I`am uploading my css webpage project i just get the idea on youtube
+I`am uploading my css mobile compatible webpage design project I just get the idea on youtube
 
-### This is the heading
+### Thanks youtube
